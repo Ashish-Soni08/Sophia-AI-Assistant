@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+###############################################
+# Added by Author - Ashish Soni
+
+## 12.01.2024
+/sophia_env 
+
+## 13.01.2024
+.env
+
+
+###############################################
+
+
 # Distribution / packaging
 .Python
 build/
