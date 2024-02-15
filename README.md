@@ -1,6 +1,6 @@
 # GPT-4 Powered App Creation and Evals Hackathon
 
-![Hackathon_Banner]("Sophia-AI-Assistant/images/lablabai_hackathon.JPG")
+![Hackathon_Banner]("images/lablabai_hackathon.JPG")
 
 ## Sophia-AI-Assistant
 
